@@ -1,7 +1,7 @@
 # m2d - macOS Virtual Display Manager
 
 <p align="center">
-  <img src="Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" alt="m2d Icon" width="64" height="64">
+  <img src="Resources/icon_128x128.png" alt="m2d Icon" width="64" height="64">
 </p>
 
 <p align="center">
